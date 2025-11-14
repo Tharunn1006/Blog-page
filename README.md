@@ -1,7 +1,7 @@
 A complete MERN stack blog platform with authentication, categories, dark mode, sample posts, and a modern UI.
 
- Features:-
- Frontend (React + Vite + Tailwind):-
+🚀 Features
+🖥 Frontend (React + Vite + Tailwind)
 
 User authentication (Login / Register)
 
@@ -17,7 +17,7 @@ Sample posts displayed if database is empty
 
 Fully mobile-friendly UI
 
- Backend (Node + Express):-
+🗄 Backend (Node + Express)
 
 REST API for posts & users
 
@@ -27,7 +27,7 @@ MongoDB database with Mongoose
 
 Protected routes for creating/editing posts
 
- Database (MongoDB Atlas):-
+🗃 Database (MongoDB Atlas)
 
 Uses clouds MongoDB database
 
